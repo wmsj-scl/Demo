@@ -11,6 +11,7 @@ namespace gitTest
         static void Main(string[] args)
         {
             Console.WriteLine("git"); 
+            //添加一行注释 看看git会不会改变
         }
     }
 }
