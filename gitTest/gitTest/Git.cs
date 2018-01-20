@@ -12,4 +12,9 @@ namespace gitTest
         public string gitName;
         public string temaName;
     }
+    enum GitType
+    {
+        Nnormal,
+        Special
+    }
 }
