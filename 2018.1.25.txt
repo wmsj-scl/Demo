@@ -1,1 +1,2 @@
-测试空分支使用git push -u origin dev
+测试空分支使用git push -u origin dev 
+测试后表示不会吧远程分支搞成空分支
